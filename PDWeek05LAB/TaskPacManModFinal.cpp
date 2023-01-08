@@ -27,7 +27,7 @@ main()
     bool run = true, move;
     printMaze();
     printPacMan(x,y);
-     
+    
     while(run)
     {
         if(gx==2)
